@@ -1,0 +1,33 @@
+# Data Files
+# Excluded main dataset from Git tracking:
+layoffs.csv
+
+
+# Ignore temporary and test datasets
+small.csv
+test.csv
+
+# SQLite databases or local database files (if used in the future)
+*.db
+*.sqlite
+
+# Log files
+*.log
+
+# OS-generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
