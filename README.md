@@ -1,4 +1,4 @@
-# SQL Data Cleaning Pipeline
+# Layoffs Data Cleaning
 
 ## Overview
 This repository showcases a complete, end-to-end SQL data cleaning pipeline designed to clean, standardize, and prepare a real-world messy dataset for downstream analytics and visualization. 
